@@ -1,7 +1,5 @@
 Hi! I'm Loren, a programmer who specializes in C++, Qt, and QML and dabbles in D.
 
-My current pet project is [trying to get 3D Pinball Space Cadet opensource](./about-to-contact-ea-ceo).
-
 I've written a few little apps, most notably [Heartless](https://github.com/LorenDB/Heartless). Furthermore, you may have seen my name in conjunction with an app or two that I've contributed to.
 
 If you want to know more about me, here are a few pieces of software that I use:
