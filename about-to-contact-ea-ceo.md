@@ -1,3 +1,7 @@
+layout: post
+date: 2022-07-11
+---
+
 # I'm going to email the CEO of [EA](https://ea.com)!
 
 Recently, I played 3D Pinball Space Cadet on an old Windows XP machine. It got me going with nostalgia for the game.
